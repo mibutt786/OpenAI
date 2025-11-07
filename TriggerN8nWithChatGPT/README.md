@@ -19,3 +19,8 @@ It lets ChatGPT send structured instructions to your n8n instance — to start w
 - 🗂️ **Parameterized Requests** — ChatGPT can pass JSON payloads or context variables directly to n8n.
 - ⚙️ **Supports GET/POST** — depending on how your n8n webhook is configured.
 - 🧾 **Extensible Design** — you can connect multiple n8n instances or workflows easily.
+
+
+
+## 🎥 Demo
+[Demo](./demo/demo.mp4)
