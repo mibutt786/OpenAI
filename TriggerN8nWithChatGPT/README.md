@@ -22,5 +22,6 @@ It lets ChatGPT send structured instructions to your n8n instance — to start w
 
 
 
-## 🎥 Demo
-[Demo](./demo/demo.mp4)
+## 🎥 Demo Video
+
+[![ChatGPT n8n](https://img.youtube.com/vi/nPRNEFvR52Y/0.jpg)](https://www.youtube.com/watch?v=nPRNEFvR52Y)
