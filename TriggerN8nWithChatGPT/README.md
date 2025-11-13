@@ -24,4 +24,4 @@ It lets ChatGPT send structured instructions to your n8n instance — to start w
 
 ## 🎥 Demo Video
 
-[![ChatGPT n8n](https://img.youtube.com/vi/nPRNEFvR52Y/0.jpg)](https://www.youtube.com/watch?v=nPRNEFvR52Y)
+[![ChatGPT n8n](https://img.youtube.com/vi/6jWb90AxgpY/0.jpg)](https://www.youtube.com/watch?v=6jWb90AxgpY)
