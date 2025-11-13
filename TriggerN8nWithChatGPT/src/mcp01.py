@@ -37,7 +37,7 @@ Instructions: {props.get('instruction', 'No specific instructions provided')}
 
 
 @mcp.tool()
-async def triggern8n(contents: str):
+async def custom_workflow(contents: str) -> str:
     """send an contents to n8n workflow
 
     Args:
@@ -62,7 +62,7 @@ async def triggern8n(contents: str):
             
             print("Status code:", response.status_code)
             print("Response body:", response.text)
-            return f"Email sent successfully. Status code: {response.status_code}"
+            return f"Email sent successfully. Status code: {response.text}"
         except Exception as e:
             return f"Error sending email: {str(e)}"
 
